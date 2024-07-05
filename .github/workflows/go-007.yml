@@ -27,3 +27,7 @@ jobs:
 
     - name: Test Again
       run: go test -v ./...
+
+
+    - name: Test Again 3
+      run: go test -v ./...
