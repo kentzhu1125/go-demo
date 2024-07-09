@@ -6,6 +6,8 @@ name: pipeline-name-tag-test
 on:
   push:
     branches: "**"
+    
+run-name: tets
 
 jobs:
 
